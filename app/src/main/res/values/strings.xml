@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MK_Game_Backlog_Poging_4</string>
+    
+    <string-array name="status">
+        <item>Want to Play </item>
+        <item>Playing </item>
+        <item>Stalled </item>
+        <item>Dropped </item>
+    </string-array>
+</resources>
